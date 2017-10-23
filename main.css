@@ -1,0 +1,358 @@
+.gran-contenedor{
+		width: 100%;
+		top:0;
+		left:0;
+		z-index: 0;
+}
+.baner-menu{
+	width: 100%;
+	position: absolute;
+	display: inline-block;
+	padding-bottom: 1.5em;
+	background: transparent;
+	border-bottom: 0.01em solid #efefef;	
+	z-index: 1;
+}
+.fa-pinterest{
+	position: absolute;
+	color:#c10021;
+	top:0.3em;
+	left:0.3em;	
+	font-size: 2.06em;
+	z-index: 2;
+}
+.box-search{
+	position: relative;
+	width: 50em;
+	height:2.7em;
+	margin-left: 3.5em;
+	margin-top: 0.3em;
+	background:#efefef;	
+	z-index:2;
+}	
+.fa-search{
+	position: absolute;
+	margin-left:3.2em;
+	bottom: 1.6em;
+	color:#c7c7c7;
+	font-size: 1.3em;
+	font-weight: bold;
+	z-index: 3;
+}
+.text-search{
+	position: absolute;
+	left:6.5em;
+	bottom: 1.3em;
+	z-index: 3;
+}
+p{
+	color: #757575;
+	font-size: 15px; 
+	font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-weight: bolder;	
+}	
+.fa-times-circle{
+	position: absolute;
+	margin-left: 26.5em;
+	color:#c7c7c7;
+	bottom: 1.3em;
+	font-size: 1.5em;
+	font-weight: bold;
+	z-index: 3;
+}
+.baner-search{
+	position: absolute;
+	display:inline-block;
+	height:2.1em;
+	border-left: 0.1em solid #E5E7E9;
+	left: 42em;
+	bottom:1.8em;
+	background:transparent;
+	z-index: 3;
+}
+h3{
+	color: #757575;
+	font-size: 15px; 
+	font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-weight: bolder;
+	text-align: top;
+	z-index: 3;
+}
+.fa-angle-down{
+	position: absolute;
+	color:#757575;
+	left:30em;
+	bottom: 1em;
+	font-size: 1.7em;
+	font-weight: bold;
+	z-index: 3;
+}
+.fa-user{
+	position: absolute;
+	padding:0.5em;
+	color:#AAB7B8;
+	left: 38em;
+	bottom: 0.9em;
+	font-size: 1.5em;	
+	z-index: 2;
+}
+.fa-bars{
+	position: absolute;
+	padding:0.5em;
+	color:#AAB7B8;
+	left:40.03em;
+	bottom: 0.9em;
+	font-size: 1.5em;
+	z-index: 2;
+}
+.fa-commenting-o{
+	position: absolute;
+	padding:0.5em;
+	left:40.03em;
+	bottom: 0.8em;
+	color:#AAB7B8;
+	font-size: 1.6em;
+	z-index: 2;
+}
+.items{
+	width: 100%;
+	display: inline-block;
+	border-left:2em;
+	border-right:2em;
+	margin-top: 5.7em;
+	margin-bottom:3em;
+	background: transparent;
+	z-index: 1;
+}
+h4{
+	font-size: 15px; 
+	font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-weight: bolder;
+	text-align: bottom;
+	color:#ffffff;
+}
+.Juveniles{
+	position: absolute;
+	height: 4em;
+	width: auto;
+	padding-left: 1em;
+	padding-right: 1em;
+	margin-right:0.8; 
+	margin-left:0em;
+	border-radius: 10%;
+	background: #635148;
+}
+.Madera{
+	position: absolute;
+	height: 4em;
+	width: auto;
+	padding-left: 1em;
+	padding-right: 1em;
+	margin-right: 0.8em; 
+	margin-left:0.8em;
+	border-radius: 10%;
+	left: 7em;
+	background: #9f8b7c;
+}
+.Grises{
+	position: absolute;
+	height: 4em;
+	width: auto;
+	padding-left: 1em;
+	padding-right: 1em;
+	margin-right: 0.8em; 
+	margin-left:0em;
+	border-radius: 10%;
+	left:14em;
+	background: #afa5a6;
+}
+.Recamara{
+	position: absolute;
+	height: 4em;
+	width: auto;
+	padding-left: 1em;
+	padding-right: 1em;
+	border-radius: 10%;
+	left:20em;
+	background: #635148;
+}	
+.Organizadores{
+	position: absolute;
+	height: 4em;
+	width: auto;
+	padding-left: 1em;
+	padding-right: 1em;
+	margin-right: 0.8em; 
+	margin-left:0.8em;
+	border-radius: 10%;
+	left:27em;
+	background: #77513c;
+}
+.Multifuncionales{
+	position: absolute;
+	height: 4em;
+	width: auto;
+	padding-left: 1em;
+	padding-right: 1em;
+	margin-right: 0.8em; 
+	margin-left:0.8em;
+	border-radius: 10%;
+	left:36.5em;
+	background: #b3948b;
+}
+.Modernos{
+	position: absolute;
+	height: 4em;
+	width: auto;
+	padding-right: 1em;
+	padding-left: 1em;
+	margin-right: 0.8em; 
+	margin-left:0.8em;
+	border-radius: 10%;
+	left: 47em;
+	background: #afa5a6;	
+}
+.Living{
+	position: absolute;
+	height: 4em;
+	width: auto;
+	padding-right: 1em;
+	padding-left: 1em;
+	margin-right: 0.8em; 
+	margin-left:0.8em;
+	border-radius: 10%;
+	left:54.5em;
+	bottom: 24em;
+	background: #9f8b7c;
+}
+.Ideas{
+	position: absolute;
+	height: 4em;
+	width: auto;
+	padding-right: 1em;
+	padding-left: 1em;
+	margin-right: 0.8em; 
+	margin-left:0.8em;
+	border-radius: 10%;
+	left:60em;
+	bottom:24em;
+	background: #635148;
+}
+.IKEA{
+	position: absolute;
+	height: 4em;
+	width: auto;
+	padding-left: 1em;
+	padding-right: 1em;
+	margin-right: 0.8em; 
+	margin-left:0.8em;
+	border-radius: 10%;
+	left: 65em;
+	bottom: 24em; 
+	background: #afa5a6;
+}
+.Creativos{
+	position: absolute;
+	height: 4em;
+	width: auto;
+	padding-left: 1em;
+	padding-right: 1em;
+	margin-right: 0em; 
+	margin-left:0.8em;
+	border-radius: 10%;
+	left:70em;
+	bottom: 24em;
+	background: #77513c;
+}
+img{
+	position:relative;
+	border-radius: 6%;
+	margin-left:3em;
+	margin-right: 2em;
+	margin-top:2em;
+	margin-bottom: 2em;
+}
+.uno{
+	position: 
+	left: 5em;
+	z-index: 2;
+}
+.dos{
+	position:absolute;
+	top:33em;
+	left:50em;
+	z-index: 2;
+	
+}
+.tres{
+	position: absolute;
+	right: 5em;
+	top: 10em;
+	z-index: 2;
+}
+.cuatro{
+	
+}
+.cinco{
+	position: absolute;
+	
+	top:33em;
+	z-index: 2;
+}
+.seis{
+
+}
+.siete{
+	position: absolute;
+	left:28.7em;
+	top:33em;
+	z-index: 2;
+}
+.ocho{
+	float:left;
+	bottom: 10em;
+	z-index: 2;
+}
+.nueve{
+
+}
+.diez{
+
+}
+.once{
+
+}
+.doce{
+
+}
+.trece{
+
+}
+.catorce{
+
+}
+.quince{
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*.menu-rigth{
+	display: inline-flex;
+	min-width:auto;
+	min-height: auto;
+	flex-direction: row;
+	direction: ltr;*/
+	
+
